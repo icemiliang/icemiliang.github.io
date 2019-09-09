@@ -36,7 +36,6 @@ Work
   * Project: Image downsampling through Gaussian filtering
   * Supervisor: Scott Hills
 
-
 Skills
 ======
 * Languages: C/C++, Python, Matlab, etc.
