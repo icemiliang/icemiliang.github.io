@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Get the [PDF version](http://icemiliang.github.io/files/resume.pdf)
+
 Education
 ======
 * Ph.D in Computer Engineering, Arizona State University, 2020 (expected)
@@ -17,20 +19,20 @@ Education
 
 Work experience
 ======
-* Summer 2019: Research Intern
+* Summer 2019: Research Intern (Visual Sensing)
   * Bosch
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Project: Depth estimation
+  * Supervisor: Zhixin Yan
 
-* Summer 2017: Research Assistant
+* Summer 2017: Software Engineering Intern (Imaging and Computer Vision)
   * Intuitive Surgical
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Project: Real-time 3D reconstruction
+  * Supervisor: Wen Liu
 
-* Summer 2014: Research Assistant
+* Summer 2014: Software Engineering Intern
   * Aware
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Project: Gaussian downsampling
+  * Supervisor: Scott Hills
   
 Skills
 ======
