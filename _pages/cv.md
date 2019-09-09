@@ -44,15 +44,13 @@ Skills
 
 Teaching
 ======
-* Aug. 2014 - Present: Teaching Assistant
-  * Arizona State University
+* Aug. 2014 - Present: Teaching Assistant, Arizona State University
     * Spring 2018: Database Management (SER 322), Logic Design (SER232)
     * Fall 2017: Logic In Computer Science (CSE 259, Instructor of recitation sessions)
     * Fall 2016: Data Structures and Algorithms (CSE 310, Instructor of recitation sessions)
     * Fall 2014: The Principles of Programming Languages (CSE 110)
 
-* May 2013 - May 2014: Grader
-  * Worcester Polytechnic Institute
+* May 2013 - May 2014: Grader, Worcester Polytechnic Institute
   * Spring 2012: Digital Image Processing (CS/ECE 545)
   * Fall 2011: Introduction to Wireless Networks (ECE 3308)
 
@@ -79,9 +77,9 @@ Service
   * IEEE TBME '14 
   * SPIE JARS '14
 
-<!-- Publications
+
+{% Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
+  {% endfor %}</ul> %}
