@@ -5,12 +5,5 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. "Variational wasserstein clustering." In *Proceedings of the European Conference on Computer Vision (ECCV)*, pp. 322-337. 2018. [arXiv](https://arxiv.org/abs/1806.09045) [code](https://github.com/icemiliang/pyvot)
 
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
