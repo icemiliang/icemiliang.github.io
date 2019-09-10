@@ -11,7 +11,7 @@ citation: 'Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. &quot;Variational 
 
 [arXiv](https://arxiv.org/abs/1806.09045)
 
-BibTeX:
+<!-- BibTeX:
 ```
 @inproceedings{mi2018variational,
   title={Variational wasserstein clustering},
@@ -20,4 +20,4 @@ BibTeX:
   pages={322--337},
   year={2018}
 }
-```
+``` -->
