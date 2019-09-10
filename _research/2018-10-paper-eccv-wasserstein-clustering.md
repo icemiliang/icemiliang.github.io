@@ -10,14 +10,3 @@ citation: 'Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. &quot;Variational 
 ---
 
 [arXiv](https://arxiv.org/abs/1806.09045)
-
-<!-- BibTeX:
-```
-@inproceedings{mi2018variational,
-  title={Variational wasserstein clustering},
-  author={Mi, Liang and Zhang, Wen and Gu, Xianfeng and Wang, Yalin},
-  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-  pages={322--337},
-  year={2018}
-}
-``` -->
