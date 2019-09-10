@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 2"
+title: "Variational Wasserstein Clustering"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-10-paper-eccv-wasserstein-clustering
+excerpt: 'This paper introduces an alternative to solve the constrained k-means problem.'
+date: 2018-10
+venue: 'ECCV'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. &quot;Variational wasserstein clustering.&quot; In <i>Proceedings of the European Conference on Computer Vision (ECCV)</i>i>, pp. 322-337. 2018.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[arXiv](https://arxiv.org/abs/1806.09045)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+BibTeX:
+```
+@inproceedings{mi2018variational,
+  title={Variational wasserstein clustering},
+  author={Mi, Liang and Zhang, Wen and Gu, Xianfeng and Wang, Yalin},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={322--337},
+  year={2018}
+}
+```
