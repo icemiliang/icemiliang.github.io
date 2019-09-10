@@ -1,7 +1,7 @@
 ---
 title: "Variational Wasserstein Clustering"
 collection: publications
-permalink: /publication/2018-10-paper-eccv-wasserstein-clustering
+permalink: /publication/2018-09-07-paper-eccv-wasserstein-clustering
 excerpt: 'This paper introduces an alternative to solve the constrained k-means problem.'
 date: 2018-10
 venue: 'ECCV'
