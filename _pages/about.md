@@ -12,6 +12,8 @@ I am a Ph.D. candidate at Arizona State University. My research interests lie in
 
 I am open to a full-time scientist/engineer position focusing on machine learning and computer vision, starting at Spring 2020.
 
+I am adding contents to this new website. Meanwhile, please check my previous website at [http://www.public.asu.edu/~liangmi/](http://www.public.asu.edu/~liangmi/).
+
 
 
 Select Publications
@@ -26,3 +28,4 @@ Singh, Shibani, Anant Srivastava, Liang Mi, Richard J. Caselli, Kewei Chen, Dhru
 
 Mi, Liang, Wen Zhang, Junwei Zhang, Yonghui Fan, Dhruman Goradia, Kewei Chen, Eric M. Reiman, Xianfeng Gu, and Yalin Wang. "An optimal transportation based univariate neuroimaging index." In *Proceedings of the IEEE International Conference on Computer Vision*, pp. 182-191. 2017.
 
+Bao, Guanqun, Kaveh Pahlavan, and Liang Mi. "Hybrid localization of microrobotic endoscopic capsule inside small intestine by data fusion of vision and RF sensors." *IEEE Sensors Journal 15*, no. 5 (2014): 2669-2678.
