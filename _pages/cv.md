@@ -23,18 +23,12 @@ Work
 ======
 * Summer 2019: Research Intern (Visual Sensing)
   * Bosch
-  * Project: Depth estimation
-  * Supervisor: Zhixin Yan
+  * Depth estimation from color images
 
 * Summer 2017: Software Engineering Intern (Imaging and Computer Vision)
   * Intuitive Surgical
-  * Project: Real-time 3D reconstruction
-  * Supervisor: Wen Liu
+  * Real-time 3D reconstruction
 
-* Summer 2014: Software Engineering Intern
-  * Aware
-  * Project: Image downsampling through Gaussian filtering
-  * Supervisor: Scott Hills
 
 Skills
 ======
