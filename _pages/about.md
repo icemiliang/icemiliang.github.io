@@ -20,7 +20,8 @@ Select Publications
 ======
 Zhang, Wen, Liang Mi, Paul M. Thompson, and Yalin Wang. "A Geometric Framework for Feature Mappings in Multimodal Fusion of Brain Image Data." In *International Conference on Information Processing in Medical Imaging*, pp. 617-630. Springer, Cham, 2019.
 
-Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. "Variational wasserstein clustering." In *Proceedings of the European Conference on Computer Vision (ECCV)*, pp. 322-337. 2018. [arXiv](https://arxiv.org/abs/1806.09045) [code](https://github.com/icemiliang/pyvot)
+Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. "Variational wasserstein clustering." In *Proceedings of the European Conference on Computer Vision (ECCV)*, pp. 322-337. 2018.  
+\[[arXiv](https://arxiv.org/abs/1806.09045)\] \[[code](https://github.com/icemiliang/pyvot)\]
 
 
 Singh, Shibani, Anant Srivastava, Liang Mi, Richard J. Caselli, Kewei Chen, Dhruman Goradia, Eric M. Reiman, and Yalin Wang. "Deep-learning-based classification of FDG-PET data for Alzheimer's disease categories." In *13th International Conference on Medical Information Processing and Analysis*, vol. 10572, p. 105720J. International Society for Optics and Photonics, 2017.
