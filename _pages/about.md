@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Liang Mi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
