@@ -65,9 +65,8 @@ Service
 ======
 * Reviewer
   * AAAI '20
-  * CVPR '19
+  * CVPR '19, '20
   * ICCV '19
   * MICCAI '17, '18, '19
   * IEEE TBME '14 
   * SPIE JARS '14
-
