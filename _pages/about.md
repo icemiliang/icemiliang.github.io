@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Liang Mi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,10 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate at Arizona State University. My research interests lie in the intersection of machine learning and computer vision, particularly in functional mapping and its applications in clustering, embedding learning, domain adaptation, 3D registration, and medical imaging. I am also working on unsupervised depth estimation from monocular color images. I have interned at Bosch and Intuitive Surgical. 
 
-I am open to a full-time scientist/engineer position focusing on machine learning and computer vision, starting at Spring 2020.
-
-I am adding contents to this new website. Meanwhile, please check my previous website at [http://www.public.asu.edu/~liangmi/](http://www.public.asu.edu/~liangmi/).
-
+I am open to a full-time scientist/engineer position focusing on machine learning and computer vision, starting in Spring 2020.
 
 
 Select Publications
@@ -22,7 +19,6 @@ Zhang, Wen, Liang Mi, Paul M. Thompson, and Yalin Wang. "A Geometric Framework f
 
 Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. "Variational wasserstein clustering." In *Proceedings of the European Conference on Computer Vision (ECCV)*, pp. 322-337. 2018.  
 \[[arXiv](https://arxiv.org/abs/1806.09045)\] \[[code](https://github.com/icemiliang/pyvot)\]
-
 
 Singh, Shibani, Anant Srivastava, Liang Mi, Richard J. Caselli, Kewei Chen, Dhruman Goradia, Eric M. Reiman, and Yalin Wang. "Deep-learning-based classification of FDG-PET data for Alzheimer's disease categories." In *13th International Conference on Medical Information Processing and Analysis*, vol. 10572, p. 105720J. International Society for Optics and Photonics, 2017.
 
