@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liang Mi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Liang Mi"
 description              : &description "Ph.D Student at Arizona State University"
