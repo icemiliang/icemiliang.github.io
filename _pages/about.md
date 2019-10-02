@@ -15,6 +15,8 @@ I am open to a full-time scientist/engineer position focusing on machine learnin
 
 Select publications
 ======
+Mi, Liang, Wen Zhang, and Yalin Wang. "Regularized Wasserstein Means for Aligning Distributional Data", Optimal Transport & Machine Learning workshop (OTML) at NeurIPS 2019. [To appear]
+
 Zhang, Wen, Liang Mi, Paul M. Thompson, and Yalin Wang. "A Geometric Framework for Feature Mappings in Multimodal Fusion of Brain Image Data." In *International Conference on Information Processing in Medical Imaging*, pp. 617-630. Springer, Cham, 2019.
 
 Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. "Variational wasserstein clustering." In *Proceedings of the European Conference on Computer Vision (ECCV)*, pp. 322-337. 2018.  
