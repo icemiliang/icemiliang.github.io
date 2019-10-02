@@ -64,7 +64,7 @@ Awards
 Service
 ======
 * Reviewer
-  * AAAI \`20
-  * CVPR \`19 \`20
-  * ICCV \`19
-  * MICCAI \`17, \`18, \`19
+  * AAAI '20
+  * CVPR '19 '20
+  * ICCV '19
+  * MICCAI '17, '18, '19
