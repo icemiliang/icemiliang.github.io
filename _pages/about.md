@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Arizona State University. My research interests lie in the intersection of machine learning and computer vision, particularly in functional mapping and its applications in clustering, embedding learning, domain adaptation, 3D registration, generative modeling, etc. I also worked on unsupervised depth estimation from monocular color images. I have interned at Bosch and Intuitive Surgical. 
+I am a Ph.D. student at Arizona State University. My research interests lie in the intersection of machine learning and computer vision, particularly in functional mapping and its applications in clustering, domain adaptation, 3D registration, generative modeling, etc. I also worked on unsupervised depth estimation from monocular color images. I have interned at Bosch and Intuitive Surgical. 
 
-I am open to a full-time scientist/engineer position focusing on machine learning and computer vision, starting in May 2020.
+I am open to a full-time scientist/engineer position focusing on machine learning and/or computer vision, starting in May 2020.
 
 
-Select Work
+Recent Work
 ======
 Mi, Liang, Zhixin Yan, and Ren Liu, "Self-Supervised Depth Estimation with Sparse Depth and Superpixel-based Planar Constraints". [Under review]
 
@@ -25,5 +25,3 @@ Mi, Liang, Wen Zhang, Xianfeng Gu, and Yalin Wang. "Variational wasserstein clus
 \[[arXiv](https://arxiv.org/abs/1806.09045)\] \[[code](https://github.com/icemiliang/pyvot)\]
 
 Mi, Liang, Wen Zhang, Junwei Zhang, Yonghui Fan, Dhruman Goradia, Kewei Chen, Eric M. Reiman, Xianfeng Gu, and Yalin Wang. "An optimal transportation based univariate neuroimaging index." In *Proceedings of the IEEE International Conference on Computer Vision*, pp. 182-191. 2017.
-
-Bao, Guanqun, Kaveh Pahlavan, and Liang Mi. "Hybrid localization of microrobotic endoscopic capsule inside small intestine by data fusion of vision and RF sensors." *IEEE Sensors Journal 15*, no. 5 (2014): 2669-2678.
