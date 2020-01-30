@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student at Arizona State University. My research interests lie in the intersection of machine learning and computer vision, particularly in functional mapping and its applications in clustering, domain adaptation, 3D registration, generative modeling, etc. I also worked on unsupervised depth estimation from monocular color images. I have interned at Bosch and Intuitive Surgical. 
 
-I am open to a full-time scientist/engineer position focusing on machine learning and/or computer vision, starting in May 2020.
+I will be joining Apple as a research engineer in the Camera Sotware team in May 2020.
 
 
 Recent Work
