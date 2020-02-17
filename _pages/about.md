@@ -15,7 +15,7 @@ Recent Work
 
 **Mi, Liang**, Tianshu Yu, José Bento, Wen Zhang, Baoxin Li, and Yalin Wang, "Variational Wasserstein Barycenters for Geometric Clustering".
 
-**Mi, Liang** and Jose Bento, "Multi-Marginal Optimal Transport Defines a Generalized Metric". \[arXiv: [2001.11114](https://arxiv.org/abs/2001.11114)\]
+**Mi, Liang** and José Bento, "Multi-Marginal Optimal Transport Defines a Generalized Metric". \[arXiv: [2001.11114](https://arxiv.org/abs/2001.11114)\]
 
 **Mi, Liang**, Zhixin Yan, and Ren Liu, "Self-Supervised Depth Estimation with Sparse Depth and Superpixel-based Planar Constraints".
 
