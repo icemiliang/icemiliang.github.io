@@ -12,7 +12,6 @@ I am a Ph.D. student at Arizona State University. My research interests lie in t
 
 I will be joining the Camera Software team at Apple as a research engineer in imaging and computer vision in May 2020.
 
-
 Recent Work
 ======
 
@@ -22,7 +21,7 @@ Recent Work
 
 **Mi, Liang**, Zhixin Yan, and Ren Liu, "Self-Supervised Depth Estimation with Sparse Depth and Superpixel-based Planar Constraints".
 
-**Mi, Liang**, Wen Zhang, and Yalin Wang. "Regularized Wasserstein Means for Aligning Distributional Data", Accepted to AAAI 2020. \[arXiv: [1812.00338](https://arxiv.org/abs/1812.00338)\]
+**Mi, Liang**, Wen Zhang, and Yalin Wang. "Regularized Wasserstein Means for Aligning Distributional Data", Accepted to AAAI 2020. \[arXiv: [1812.00338](https://arxiv.org/abs/1812.00338)\]\[[code](https://github.com/icemiliang/pyvot)\]
 
 Zhang, Wen, **Liang Mi**, Paul M. Thompson, and Yalin Wang. "A Geometric Framework for Feature Mappings in Multimodal Fusion of Brain Image Data." In *International Conference on Information Processing in Medical Imaging*, pp. 617-630. Springer, Cham, 2019.
 
