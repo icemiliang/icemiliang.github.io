@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Arizona State University. My research interests lie in the intersection of machine learning and computer vision, particularly in functional mapping and its applications in clustering, domain adaptation, 3D registration, generative modeling, etc. I also worked on unsupervised depth estimation from monocular color images. I have interned at Bosch and Intuitive Surgical. 
+I am a Ph.D. student at Arizona State University. My research interests lie in the intersection of machine learning and computer vision, particularly in functional mapping and its applications in clustering, domain adaptation, 3D registration, generative modeling, etc. I have interned at Bosch and Intuitive Surgical. 
 
-I am open to a full-time scientist/engineer position focusing on machine learning and/or computer vision, starting in May 2020.
+I will be joining the Camera Software team at Apple as a research engineer in imaging and computer vision in May 2020.
 
 
 Recent Work
 ======
-**Mi, Liang**, Zhixin Yan, and Ren Liu, "Self-Supervised Depth Estimation with Sparse Depth and Superpixel-based Planar Constraints". [Under review]
 
-**Mi, Liang**, Wen Zhang, and Yalin Wang. "Regularized Wasserstein Means for Aligning Distributional Data", AAAI 2020 [To appear]
+**Mi, Liang**, Tianshu Yu, José Bento, Wen Zhang, Baoxin Li, and Yalin Wang, "Variational Wasserstein Barycenters for Geometric Clustering".
+
+**Mi, Liang** and Jose Bento, "Multi-Marginal Optimal Transport Defines a Generalized Metric". \[arXiv: [2001.11114](https://arxiv.org/abs/2001.11114)\]
+
+**Mi, Liang**, Zhixin Yan, and Ren Liu, "Self-Supervised Depth Estimation with Sparse Depth and Superpixel-based Planar Constraints".
+
+**Mi, Liang**, Wen Zhang, and Yalin Wang. "Regularized Wasserstein Means for Aligning Distributional Data", Accepted to AAAI 2020. \[arXiv: [1812.00338](https://arxiv.org/abs/1812.00338)\]
 
 Zhang, Wen, **Liang Mi**, Paul M. Thompson, and Yalin Wang. "A Geometric Framework for Feature Mappings in Multimodal Fusion of Brain Image Data." In *International Conference on Information Processing in Medical Imaging*, pp. 617-630. Springer, Cham, 2019.
 
