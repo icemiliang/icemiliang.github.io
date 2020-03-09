@@ -16,7 +16,7 @@ I will be joining Apple in May 2020 as a research engineer in the Camera Softwar
 Recent Work
 ======
 
-**Mi, Liang**, Tianshu Yu, José Bento, Wen Zhang, Baoxin Li, and Yalin Wang, "Variational Wasserstein Barycenters for Geometric Clustering".
+**Mi, Liang**, Tianshu Yu, José Bento, Wen Zhang, Baoxin Li, and Yalin Wang, "Variational Wasserstein Barycenters for Geometric Clustering". \[arXiv: [2001.11114](https://arxiv.org/abs/2002.10543)\]\[[code](https://github.com/icemiliang/pyvot/tree/master/demo/vwb)\]
 
 **Mi, Liang** and José Bento, "Multi-Marginal Optimal Transport Defines a Generalized Metric". \[arXiv: [2001.11114](https://arxiv.org/abs/2001.11114)\]
 
